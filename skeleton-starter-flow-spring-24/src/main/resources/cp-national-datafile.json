@@ -1,0 +1,7202 @@
+[
+  {
+    "MsCode": "MEASA",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 14.0,
+    "SE": 1.3,
+    "LowerCIB": 12.7,
+    "UpperCIB": 15.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 150.8,
+    "SE": 14.1,
+    "LowerCIB": 136.7,
+    "UpperCIB": 164.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 1073.4,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 14.5,
+    "SE": 1.1,
+    "LowerCIB": 13.4,
+    "UpperCIB": 15.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.4,
+    "SE": 1.8,
+    "LowerCIB": -1.3,
+    "UpperCIB": 2.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 155.9,
+    "SE": 11.7,
+    "LowerCIB": 144.2,
+    "UpperCIB": 167.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 5.1,
+    "SE": 19.1,
+    "LowerCIB": -14.0,
+    "UpperCIB": 24.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 1076.5,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 14.0,
+    "SE": 1.1,
+    "LowerCIB": 12.8,
+    "UpperCIB": 15.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.5,
+    "SE": 1.5,
+    "LowerCIB": -2.0,
+    "UpperCIB": 1.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 150.6,
+    "SE": 12.3,
+    "LowerCIB": 138.4,
+    "UpperCIB": 162.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -5.3,
+    "SE": 16.3,
+    "LowerCIB": -21.6,
+    "UpperCIB": 11.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 1078.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 14.1,
+    "SE": 1.3,
+    "LowerCIB": 12.8,
+    "UpperCIB": 15.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.1,
+    "SE": 1.7,
+    "LowerCIB": -1.6,
+    "UpperCIB": 1.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 152.5,
+    "SE": 14.4,
+    "LowerCIB": 138.1,
+    "UpperCIB": 166.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 1.9,
+    "SE": 18.2,
+    "LowerCIB": -16.3,
+    "UpperCIB": 20.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 1082.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 14.9,
+    "SE": 1.3,
+    "LowerCIB": 13.6,
+    "UpperCIB": 16.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.8,
+    "SE": 1.7,
+    "LowerCIB": -0.9,
+    "UpperCIB": 2.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 161.9,
+    "SE": 13.9,
+    "LowerCIB": 148.0,
+    "UpperCIB": 175.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 9.4,
+    "SE": 18.3,
+    "LowerCIB": -8.9,
+    "UpperCIB": 27.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 1086.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 14.8,
+    "SE": 1.1,
+    "LowerCIB": 13.7,
+    "UpperCIB": 15.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.1,
+    "SE": 1.7,
+    "LowerCIB": -1.8,
+    "UpperCIB": 1.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 160.9,
+    "SE": 11.9,
+    "LowerCIB": 149.0,
+    "UpperCIB": 172.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -1.0,
+    "SE": 18.8,
+    "LowerCIB": -19.8,
+    "UpperCIB": 17.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 1085.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 15.6,
+    "SE": 1.2,
+    "LowerCIB": 14.4,
+    "UpperCIB": 16.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.8,
+    "SE": 1.5,
+    "LowerCIB": -0.7,
+    "UpperCIB": 2.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 169.0,
+    "SE": 12.6,
+    "LowerCIB": 156.4,
+    "UpperCIB": 181.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 8.1,
+    "SE": 16.4,
+    "LowerCIB": -8.3,
+    "UpperCIB": 24.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 14.5,
+    "SE": 1.1,
+    "LowerCIB": 13.4,
+    "UpperCIB": 15.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.1,
+    "SE": 1.5,
+    "LowerCIB": -2.6,
+    "UpperCIB": 0.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 157.5,
+    "SE": 12.3,
+    "LowerCIB": 145.2,
+    "UpperCIB": 169.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -11.5,
+    "SE": 16.7,
+    "LowerCIB": -28.2,
+    "UpperCIB": 5.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 16.3,
+    "SE": 1.1,
+    "LowerCIB": 15.2,
+    "UpperCIB": 17.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.8,
+    "SE": 1.7,
+    "LowerCIB": 0.1,
+    "UpperCIB": 3.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 177.2,
+    "SE": 12.2,
+    "LowerCIB": 165.0,
+    "UpperCIB": 189.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 19.7,
+    "SE": 18.3,
+    "LowerCIB": 1.4,
+    "UpperCIB": 38.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 15.4,
+    "SE": 1.1,
+    "LowerCIB": 14.3,
+    "UpperCIB": 16.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.9,
+    "SE": 1.6,
+    "LowerCIB": -2.5,
+    "UpperCIB": 0.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 168.3,
+    "SE": 11.9,
+    "LowerCIB": 156.5,
+    "UpperCIB": 180.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -8.9,
+    "SE": 16.9,
+    "LowerCIB": -25.8,
+    "UpperCIB": 8.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 14.2,
+    "SE": 1.1,
+    "LowerCIB": 13.0,
+    "UpperCIB": 15.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.2,
+    "SE": 1.6,
+    "LowerCIB": -2.8,
+    "UpperCIB": 0.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 156.3,
+    "SE": 12.4,
+    "LowerCIB": 143.9,
+    "UpperCIB": 168.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -12.1,
+    "SE": 17.2,
+    "LowerCIB": -29.3,
+    "UpperCIB": 5.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 16.5,
+    "SE": 1.1,
+    "LowerCIB": 15.4,
+    "UpperCIB": 17.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 2.3,
+    "SE": 1.6,
+    "LowerCIB": 0.7,
+    "UpperCIB": 3.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 183.4,
+    "SE": 12.2,
+    "LowerCIB": 171.2,
+    "UpperCIB": 195.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 27.1,
+    "SE": 17.4,
+    "LowerCIB": 9.7,
+    "UpperCIB": 44.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 13.5,
+    "SE": 0.9,
+    "LowerCIB": 12.6,
+    "UpperCIB": 14.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -2.9,
+    "SE": 1.7,
+    "LowerCIB": -4.7,
+    "UpperCIB": -1.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 153.2,
+    "SE": 10.1,
+    "LowerCIB": 143.2,
+    "UpperCIB": 163.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -30.1,
+    "SE": 19.6,
+    "LowerCIB": -49.7,
+    "UpperCIB": -10.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.8,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 13.2,
+    "SE": 1.2,
+    "LowerCIB": 12.0,
+    "UpperCIB": 14.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.3,
+    "SE": 1.6,
+    "LowerCIB": -1.9,
+    "UpperCIB": 1.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 151.2,
+    "SE": 14.2,
+    "LowerCIB": 137.0,
+    "UpperCIB": 165.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -2.1,
+    "SE": 17.8,
+    "LowerCIB": -19.9,
+    "UpperCIB": 15.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1144.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 13.0,
+    "SE": 1.2,
+    "LowerCIB": 11.8,
+    "UpperCIB": 14.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.2,
+    "SE": 1.6,
+    "LowerCIB": -1.9,
+    "UpperCIB": 1.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 149.1,
+    "SE": 13.8,
+    "LowerCIB": 135.3,
+    "UpperCIB": 162.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -2.1,
+    "SE": 18.8,
+    "LowerCIB": -20.9,
+    "UpperCIB": 16.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1149.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 12.0,
+    "SE": 1.7,
+    "LowerCIB": 10.3,
+    "UpperCIB": 13.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.0,
+    "SE": 2.0,
+    "LowerCIB": -3.0,
+    "UpperCIB": 1.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 137.8,
+    "SE": 19.2,
+    "LowerCIB": 118.6,
+    "UpperCIB": 157.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -11.2,
+    "SE": 22.9,
+    "LowerCIB": -34.1,
+    "UpperCIB": 11.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASA",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1150.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 30.5,
+    "SE": 3.0,
+    "LowerCIB": 27.5,
+    "UpperCIB": 33.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 328.6,
+    "SE": 32.1,
+    "LowerCIB": 296.5,
+    "UpperCIB": 360.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 1078.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 26.9,
+    "SE": 3.1,
+    "LowerCIB": 23.7,
+    "UpperCIB": 30.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -3.6,
+    "SE": 4.5,
+    "LowerCIB": -8.1,
+    "UpperCIB": 0.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 291.1,
+    "SE": 33.6,
+    "LowerCIB": 257.5,
+    "UpperCIB": 324.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -37.5,
+    "SE": 48.0,
+    "LowerCIB": -85.5,
+    "UpperCIB": 10.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 1082.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 30.9,
+    "SE": 3.4,
+    "LowerCIB": 27.5,
+    "UpperCIB": 34.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 4.0,
+    "SE": 4.6,
+    "LowerCIB": -0.6,
+    "UpperCIB": 8.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 335.3,
+    "SE": 35.7,
+    "LowerCIB": 299.7,
+    "UpperCIB": 371.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 44.2,
+    "SE": 49.0,
+    "LowerCIB": -4.8,
+    "UpperCIB": 93.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 1086.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 29.1,
+    "SE": 2.7,
+    "LowerCIB": 26.3,
+    "UpperCIB": 31.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.8,
+    "SE": 4.4,
+    "LowerCIB": -6.2,
+    "UpperCIB": 2.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 315.6,
+    "SE": 30.0,
+    "LowerCIB": 285.6,
+    "UpperCIB": 345.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -19.7,
+    "SE": 47.4,
+    "LowerCIB": -67.1,
+    "UpperCIB": 27.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 1085.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 26.9,
+    "SE": 2.6,
+    "LowerCIB": 24.3,
+    "UpperCIB": 29.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -2.1,
+    "SE": 3.7,
+    "LowerCIB": -5.8,
+    "UpperCIB": 1.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 292.3,
+    "SE": 28.3,
+    "LowerCIB": 264.0,
+    "UpperCIB": 320.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -23.3,
+    "SE": 40.1,
+    "LowerCIB": -63.4,
+    "UpperCIB": 16.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 27.3,
+    "SE": 2.9,
+    "LowerCIB": 24.4,
+    "UpperCIB": 30.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.4,
+    "SE": 4.0,
+    "LowerCIB": -3.6,
+    "UpperCIB": 4.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 295.9,
+    "SE": 31.0,
+    "LowerCIB": 264.9,
+    "UpperCIB": 326.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 3.6,
+    "SE": 43.3,
+    "LowerCIB": -39.7,
+    "UpperCIB": 46.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 27.2,
+    "SE": 2.9,
+    "LowerCIB": 24.3,
+    "UpperCIB": 30.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.1,
+    "SE": 3.8,
+    "LowerCIB": -3.9,
+    "UpperCIB": 3.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 295.6,
+    "SE": 30.1,
+    "LowerCIB": 265.5,
+    "UpperCIB": 325.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -0.3,
+    "SE": 41.4,
+    "LowerCIB": -41.7,
+    "UpperCIB": 41.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 24.3,
+    "SE": 2.3,
+    "LowerCIB": 21.9,
+    "UpperCIB": 26.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -2.9,
+    "SE": 3.5,
+    "LowerCIB": -6.4,
+    "UpperCIB": 0.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 265.4,
+    "SE": 25.8,
+    "LowerCIB": 239.6,
+    "UpperCIB": 291.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -30.2,
+    "SE": 37.8,
+    "LowerCIB": -68.0,
+    "UpperCIB": 7.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 22.4,
+    "SE": 2.4,
+    "LowerCIB": 20.0,
+    "UpperCIB": 24.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.8,
+    "SE": 3.3,
+    "LowerCIB": -5.1,
+    "UpperCIB": 1.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 247.5,
+    "SE": 26.4,
+    "LowerCIB": 221.1,
+    "UpperCIB": 273.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -17.9,
+    "SE": 36.1,
+    "LowerCIB": -54.0,
+    "UpperCIB": 18.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 22.8,
+    "SE": 1.9,
+    "LowerCIB": 20.9,
+    "UpperCIB": 24.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.4,
+    "SE": 2.8,
+    "LowerCIB": -2.4,
+    "UpperCIB": 3.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 253.8,
+    "SE": 21.6,
+    "LowerCIB": 232.3,
+    "UpperCIB": 275.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 6.3,
+    "SE": 31.0,
+    "LowerCIB": -24.7,
+    "UpperCIB": 37.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 18.3,
+    "SE": 1.1,
+    "LowerCIB": 17.2,
+    "UpperCIB": 19.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -4.5,
+    "SE": 2.4,
+    "LowerCIB": -6.9,
+    "UpperCIB": -2.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 207.7,
+    "SE": 12.9,
+    "LowerCIB": 194.9,
+    "UpperCIB": 220.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -46.1,
+    "SE": 27.4,
+    "LowerCIB": -73.5,
+    "UpperCIB": -18.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.8,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 17.8,
+    "SE": 1.3,
+    "LowerCIB": 16.5,
+    "UpperCIB": 19.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.6,
+    "SE": 1.7,
+    "LowerCIB": -2.3,
+    "UpperCIB": 1.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 203.3,
+    "SE": 15.0,
+    "LowerCIB": 188.3,
+    "UpperCIB": 218.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -4.4,
+    "SE": 19.9,
+    "LowerCIB": -24.3,
+    "UpperCIB": 15.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1144.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 15.0,
+    "SE": 1.2,
+    "LowerCIB": 13.8,
+    "UpperCIB": 16.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -2.8,
+    "SE": 1.7,
+    "LowerCIB": -4.5,
+    "UpperCIB": -1.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 172.0,
+    "SE": 13.3,
+    "LowerCIB": 158.7,
+    "UpperCIB": 185.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -31.4,
+    "SE": 19.6,
+    "LowerCIB": -51.0,
+    "UpperCIB": -11.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1149.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 15.4,
+    "SE": 1.9,
+    "LowerCIB": 13.4,
+    "UpperCIB": 17.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.4,
+    "SE": 2.2,
+    "LowerCIB": -1.8,
+    "UpperCIB": 2.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 176.8,
+    "SE": 22.2,
+    "LowerCIB": 154.6,
+    "UpperCIB": 198.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 4.8,
+    "SE": 25.8,
+    "LowerCIB": -21.0,
+    "UpperCIB": 30.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASB",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1150.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 18.1,
+    "SE": 4.3,
+    "LowerCIB": 13.8,
+    "UpperCIB": 22.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 195.8,
+    "SE": 46.2,
+    "LowerCIB": 149.6,
+    "UpperCIB": 242.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 16.0,
+    "SE": 3.8,
+    "LowerCIB": 12.1,
+    "UpperCIB": 19.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -2.1,
+    "SE": 6.0,
+    "LowerCIB": -8.1,
+    "UpperCIB": 3.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 172.9,
+    "SE": 41.4,
+    "LowerCIB": 131.5,
+    "UpperCIB": 214.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -22.9,
+    "SE": 65.2,
+    "LowerCIB": -88.1,
+    "UpperCIB": 42.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 17.5,
+    "SE": 4.3,
+    "LowerCIB": 13.2,
+    "UpperCIB": 21.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.6,
+    "SE": 6.1,
+    "LowerCIB": -4.6,
+    "UpperCIB": 7.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 190.4,
+    "SE": 46.3,
+    "LowerCIB": 144.1,
+    "UpperCIB": 236.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 17.5,
+    "SE": 66.0,
+    "LowerCIB": -48.5,
+    "UpperCIB": 83.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 12.1,
+    "SE": 3.6,
+    "LowerCIB": 8.5,
+    "UpperCIB": 15.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -5.4,
+    "SE": 5.8,
+    "LowerCIB": -11.3,
+    "UpperCIB": 0.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 132.3,
+    "SE": 39.2,
+    "LowerCIB": 93.2,
+    "UpperCIB": 171.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -58.1,
+    "SE": 63.5,
+    "LowerCIB": -121.6,
+    "UpperCIB": 5.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 12.7,
+    "SE": 2.4,
+    "LowerCIB": 10.2,
+    "UpperCIB": 15.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.5,
+    "SE": 4.6,
+    "LowerCIB": -4.1,
+    "UpperCIB": 5.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 139.6,
+    "SE": 26.5,
+    "LowerCIB": 113.1,
+    "UpperCIB": 166.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 7.3,
+    "SE": 50.3,
+    "LowerCIB": -43.0,
+    "UpperCIB": 57.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 13.3,
+    "SE": 2.3,
+    "LowerCIB": 11.0,
+    "UpperCIB": 15.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.6,
+    "SE": 3.5,
+    "LowerCIB": -2.9,
+    "UpperCIB": 4.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 147.6,
+    "SE": 25.1,
+    "LowerCIB": 122.4,
+    "UpperCIB": 172.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 8.0,
+    "SE": 38.2,
+    "LowerCIB": -30.2,
+    "UpperCIB": 46.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 13.2,
+    "SE": 1.1,
+    "LowerCIB": 12.1,
+    "UpperCIB": 14.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.1,
+    "SE": 2.6,
+    "LowerCIB": -2.6,
+    "UpperCIB": 2.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 149.4,
+    "SE": 12.2,
+    "LowerCIB": 137.2,
+    "UpperCIB": 161.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 1.8,
+    "SE": 28.7,
+    "LowerCIB": -26.9,
+    "UpperCIB": 30.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 11.5,
+    "SE": 1.1,
+    "LowerCIB": 10.5,
+    "UpperCIB": 12.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.7,
+    "SE": 1.5,
+    "LowerCIB": -3.1,
+    "UpperCIB": -0.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 131.7,
+    "SE": 12.2,
+    "LowerCIB": 119.5,
+    "UpperCIB": 143.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -17.7,
+    "SE": 16.7,
+    "LowerCIB": -34.5,
+    "UpperCIB": -1.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1142.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 11.0,
+    "SE": 1.0,
+    "LowerCIB": 10.0,
+    "UpperCIB": 11.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.6,
+    "SE": 1.4,
+    "LowerCIB": -1.9,
+    "UpperCIB": 0.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 125.7,
+    "SE": 11.1,
+    "LowerCIB": 114.6,
+    "UpperCIB": 136.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -6.0,
+    "SE": 15.7,
+    "LowerCIB": -21.7,
+    "UpperCIB": 9.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1146.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 10.3,
+    "SE": 1.6,
+    "LowerCIB": 8.8,
+    "UpperCIB": 11.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.6,
+    "SE": 1.8,
+    "LowerCIB": -2.5,
+    "UpperCIB": 1.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 118.9,
+    "SE": 18.2,
+    "LowerCIB": 100.7,
+    "UpperCIB": 137.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -6.8,
+    "SE": 21.1,
+    "LowerCIB": -27.9,
+    "UpperCIB": 14.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASC",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1149.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 23.9,
+    "SE": 1.5,
+    "LowerCIB": 22.4,
+    "UpperCIB": 25.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 256.8,
+    "SE": 16.5,
+    "LowerCIB": 240.3,
+    "UpperCIB": 273.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 1073.4,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 23.4,
+    "SE": 1.3,
+    "LowerCIB": 22.0,
+    "UpperCIB": 24.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.5,
+    "SE": 2.0,
+    "LowerCIB": -2.5,
+    "UpperCIB": 1.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 251.8,
+    "SE": 14.5,
+    "LowerCIB": 237.3,
+    "UpperCIB": 266.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -5.0,
+    "SE": 21.4,
+    "LowerCIB": -26.4,
+    "UpperCIB": 16.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 1076.5,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 22.2,
+    "SE": 1.3,
+    "LowerCIB": 20.9,
+    "UpperCIB": 23.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.2,
+    "SE": 1.8,
+    "LowerCIB": -3.0,
+    "UpperCIB": 0.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 239.5,
+    "SE": 14.2,
+    "LowerCIB": 225.4,
+    "UpperCIB": 253.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -12.3,
+    "SE": 19.4,
+    "LowerCIB": -31.7,
+    "UpperCIB": 7.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 1078.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 22.4,
+    "SE": 1.5,
+    "LowerCIB": 20.9,
+    "UpperCIB": 23.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.2,
+    "SE": 1.9,
+    "LowerCIB": -1.7,
+    "UpperCIB": 2.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 242.4,
+    "SE": 16.3,
+    "LowerCIB": 226.2,
+    "UpperCIB": 258.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 2.9,
+    "SE": 20.5,
+    "LowerCIB": -17.6,
+    "UpperCIB": 23.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 1082.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 23.3,
+    "SE": 1.5,
+    "LowerCIB": 21.8,
+    "UpperCIB": 24.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.9,
+    "SE": 2.0,
+    "LowerCIB": -1.0,
+    "UpperCIB": 2.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 253.4,
+    "SE": 16.2,
+    "LowerCIB": 237.2,
+    "UpperCIB": 269.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 11.0,
+    "SE": 21.3,
+    "LowerCIB": -10.3,
+    "UpperCIB": 32.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 1086.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 23.3,
+    "SE": 1.3,
+    "LowerCIB": 22.0,
+    "UpperCIB": 24.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 2.2,
+    "LowerCIB": -2.2,
+    "UpperCIB": 2.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 252.8,
+    "SE": 13.9,
+    "LowerCIB": 238.9,
+    "UpperCIB": 266.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -0.6,
+    "SE": 23.5,
+    "LowerCIB": -24.1,
+    "UpperCIB": 22.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 1085.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 23.6,
+    "SE": 1.4,
+    "LowerCIB": 22.2,
+    "UpperCIB": 24.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.3,
+    "SE": 1.7,
+    "LowerCIB": -1.5,
+    "UpperCIB": 2.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 255.5,
+    "SE": 14.8,
+    "LowerCIB": 240.6,
+    "UpperCIB": 270.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 2.7,
+    "SE": 18.9,
+    "LowerCIB": -16.2,
+    "UpperCIB": 21.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 23.4,
+    "SE": 1.3,
+    "LowerCIB": 22.1,
+    "UpperCIB": 24.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.1,
+    "SE": 1.9,
+    "LowerCIB": -2.0,
+    "UpperCIB": 1.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 253.9,
+    "SE": 14.3,
+    "LowerCIB": 239.6,
+    "UpperCIB": 268.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -1.6,
+    "SE": 20.4,
+    "LowerCIB": -22.0,
+    "UpperCIB": 18.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 24.6,
+    "SE": 1.3,
+    "LowerCIB": 23.4,
+    "UpperCIB": 25.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.2,
+    "SE": 1.8,
+    "LowerCIB": -0.6,
+    "UpperCIB": 3.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 267.9,
+    "SE": 13.9,
+    "LowerCIB": 254.0,
+    "UpperCIB": 281.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 14.0,
+    "SE": 19.6,
+    "LowerCIB": -5.6,
+    "UpperCIB": 33.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 23.3,
+    "SE": 1.2,
+    "LowerCIB": 22.0,
+    "UpperCIB": 24.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.4,
+    "SE": 1.7,
+    "LowerCIB": -3.1,
+    "UpperCIB": 0.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 254.4,
+    "SE": 13.5,
+    "LowerCIB": 240.9,
+    "UpperCIB": 267.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -13.5,
+    "SE": 18.7,
+    "LowerCIB": -32.2,
+    "UpperCIB": 5.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 22.1,
+    "SE": 1.3,
+    "LowerCIB": 20.7,
+    "UpperCIB": 23.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.2,
+    "SE": 1.9,
+    "LowerCIB": -3.1,
+    "UpperCIB": 0.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 243.3,
+    "SE": 14.4,
+    "LowerCIB": 228.9,
+    "UpperCIB": 257.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -11.1,
+    "SE": 20.3,
+    "LowerCIB": -31.4,
+    "UpperCIB": 9.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 25.3,
+    "SE": 1.2,
+    "LowerCIB": 24.0,
+    "UpperCIB": 26.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 3.2,
+    "SE": 1.8,
+    "LowerCIB": 1.4,
+    "UpperCIB": 5.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 281.2,
+    "SE": 13.6,
+    "LowerCIB": 267.6,
+    "UpperCIB": 294.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 37.9,
+    "SE": 20.3,
+    "LowerCIB": 17.6,
+    "UpperCIB": 58.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 22.1,
+    "SE": 1.1,
+    "LowerCIB": 21.0,
+    "UpperCIB": 23.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -3.2,
+    "SE": 1.8,
+    "LowerCIB": -4.9,
+    "UpperCIB": -1.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 250.3,
+    "SE": 12.6,
+    "LowerCIB": 237.7,
+    "UpperCIB": 262.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -30.9,
+    "SE": 19.7,
+    "LowerCIB": -50.6,
+    "UpperCIB": -11.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.8,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 21.8,
+    "SE": 1.5,
+    "LowerCIB": 20.3,
+    "UpperCIB": 23.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.3,
+    "SE": 1.9,
+    "LowerCIB": -2.3,
+    "UpperCIB": 1.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 248.9,
+    "SE": 16.9,
+    "LowerCIB": 232.0,
+    "UpperCIB": 265.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -1.4,
+    "SE": 21.8,
+    "LowerCIB": -23.2,
+    "UpperCIB": 20.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1144.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 20.7,
+    "SE": 1.3,
+    "LowerCIB": 19.3,
+    "UpperCIB": 22.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.1,
+    "SE": 1.8,
+    "LowerCIB": -2.9,
+    "UpperCIB": 0.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 237.3,
+    "SE": 15.4,
+    "LowerCIB": 221.9,
+    "UpperCIB": 252.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -11.6,
+    "SE": 20.6,
+    "LowerCIB": -32.1,
+    "UpperCIB": 9.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1149.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 20.7,
+    "SE": 2.1,
+    "LowerCIB": 18.6,
+    "UpperCIB": 22.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.1,
+    "SE": 2.3,
+    "LowerCIB": -2.2,
+    "UpperCIB": 2.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 238.7,
+    "SE": 24.1,
+    "LowerCIB": 214.6,
+    "UpperCIB": 262.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 1.4,
+    "SE": 26.8,
+    "LowerCIB": -25.4,
+    "UpperCIB": 28.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASE",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1150.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 29.3,
+    "SE": 2.9,
+    "LowerCIB": 26.4,
+    "UpperCIB": 32.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 314.2,
+    "SE": 31.2,
+    "LowerCIB": 283.0,
+    "UpperCIB": 345.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 1073.4,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 33.0,
+    "SE": 3.4,
+    "LowerCIB": 29.6,
+    "UpperCIB": 36.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 3.7,
+    "SE": 4.7,
+    "LowerCIB": -0.9,
+    "UpperCIB": 8.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 355.2,
+    "SE": 36.4,
+    "LowerCIB": 318.8,
+    "UpperCIB": 391.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 41.0,
+    "SE": 49.6,
+    "LowerCIB": -8.6,
+    "UpperCIB": 90.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 1076.5,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 31.4,
+    "SE": 3.1,
+    "LowerCIB": 28.4,
+    "UpperCIB": 34.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.6,
+    "SE": 4.6,
+    "LowerCIB": -6.2,
+    "UpperCIB": 3.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 338.7,
+    "SE": 33.2,
+    "LowerCIB": 305.5,
+    "UpperCIB": 371.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -16.5,
+    "SE": 50.0,
+    "LowerCIB": -66.5,
+    "UpperCIB": 33.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 1078.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 29.7,
+    "SE": 2.6,
+    "LowerCIB": 27.1,
+    "UpperCIB": 32.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.7,
+    "SE": 4.0,
+    "LowerCIB": -5.7,
+    "UpperCIB": 2.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 321.9,
+    "SE": 28.5,
+    "LowerCIB": 293.4,
+    "UpperCIB": 350.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -16.8,
+    "SE": 43.0,
+    "LowerCIB": -59.8,
+    "UpperCIB": 26.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 1082.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 30.2,
+    "SE": 3.1,
+    "LowerCIB": 27.1,
+    "UpperCIB": 33.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.5,
+    "SE": 4.1,
+    "LowerCIB": -3.6,
+    "UpperCIB": 4.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 328.1,
+    "SE": 32.8,
+    "LowerCIB": 295.3,
+    "UpperCIB": 360.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 6.2,
+    "SE": 43.6,
+    "LowerCIB": -37.4,
+    "UpperCIB": 49.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 1086.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 28.9,
+    "SE": 2.7,
+    "LowerCIB": 26.2,
+    "UpperCIB": 31.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.2,
+    "SE": 4.2,
+    "LowerCIB": -5.4,
+    "UpperCIB": 2.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 314.3,
+    "SE": 30.1,
+    "LowerCIB": 284.2,
+    "UpperCIB": 344.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -13.8,
+    "SE": 44.8,
+    "LowerCIB": -58.6,
+    "UpperCIB": 31.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 1085.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 29.3,
+    "SE": 3.0,
+    "LowerCIB": 26.4,
+    "UpperCIB": 32.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.4,
+    "SE": 4.2,
+    "LowerCIB": -3.8,
+    "UpperCIB": 4.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 318.3,
+    "SE": 32.1,
+    "LowerCIB": 286.1,
+    "UpperCIB": 350.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 4.0,
+    "SE": 45.5,
+    "LowerCIB": -41.5,
+    "UpperCIB": 49.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 29.3,
+    "SE": 2.9,
+    "LowerCIB": 26.4,
+    "UpperCIB": 32.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 4.2,
+    "LowerCIB": -4.3,
+    "UpperCIB": 4.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 317.8,
+    "SE": 31.8,
+    "LowerCIB": 285.9,
+    "UpperCIB": 349.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -0.5,
+    "SE": 46.1,
+    "LowerCIB": -46.6,
+    "UpperCIB": 45.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 30.5,
+    "SE": 3.3,
+    "LowerCIB": 27.2,
+    "UpperCIB": 33.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.1,
+    "SE": 4.3,
+    "LowerCIB": -3.1,
+    "UpperCIB": 5.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 331.2,
+    "SE": 34.3,
+    "LowerCIB": 296.9,
+    "UpperCIB": 365.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 13.4,
+    "SE": 46.0,
+    "LowerCIB": -32.6,
+    "UpperCIB": 59.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 29.8,
+    "SE": 2.4,
+    "LowerCIB": 27.4,
+    "UpperCIB": 32.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.7,
+    "SE": 3.8,
+    "LowerCIB": -4.5,
+    "UpperCIB": 3.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 325.7,
+    "SE": 26.7,
+    "LowerCIB": 299.0,
+    "UpperCIB": 352.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -5.5,
+    "SE": 40.5,
+    "LowerCIB": -46.0,
+    "UpperCIB": 35.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 28.4,
+    "SE": 2.6,
+    "LowerCIB": 25.8,
+    "UpperCIB": 31.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.4,
+    "SE": 3.7,
+    "LowerCIB": -5.0,
+    "UpperCIB": 2.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 313.6,
+    "SE": 28.3,
+    "LowerCIB": 285.3,
+    "UpperCIB": 342.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -12.1,
+    "SE": 39.8,
+    "LowerCIB": -51.9,
+    "UpperCIB": 27.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 30.6,
+    "SE": 2.4,
+    "LowerCIB": 28.3,
+    "UpperCIB": 33.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 2.2,
+    "SE": 3.2,
+    "LowerCIB": -1.0,
+    "UpperCIB": 5.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 341.1,
+    "SE": 26.5,
+    "LowerCIB": 314.6,
+    "UpperCIB": 367.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 27.5,
+    "SE": 35.3,
+    "LowerCIB": -7.8,
+    "UpperCIB": 62.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 27.7,
+    "SE": 1.2,
+    "LowerCIB": 26.5,
+    "UpperCIB": 28.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -3.0,
+    "SE": 3.1,
+    "LowerCIB": -6.05,
+    "UpperCIB": 0.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 313.2,
+    "SE": 13.5,
+    "LowerCIB": 299.7,
+    "UpperCIB": 326.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -27.9,
+    "SE": 34.7,
+    "LowerCIB": -62.6,
+    "UpperCIB": 6.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.8,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 27.8,
+    "SE": 1.6,
+    "LowerCIB": 26.2,
+    "UpperCIB": 29.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.2,
+    "SE": 2.1,
+    "LowerCIB": -2.0,
+    "UpperCIB": 2.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 318.1,
+    "SE": 18.4,
+    "LowerCIB": 299.7,
+    "UpperCIB": 336.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 4.9,
+    "SE": 24.0,
+    "LowerCIB": -19.1,
+    "UpperCIB": 28.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1144.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 27.5,
+    "SE": 1.5,
+    "LowerCIB": 26.0,
+    "UpperCIB": 28.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.3,
+    "SE": 2.1,
+    "LowerCIB": -2.5,
+    "UpperCIB": 1.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 315.6,
+    "SE": 16.8,
+    "LowerCIB": 298.7,
+    "UpperCIB": 332.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -2.5,
+    "SE": 24.4,
+    "LowerCIB": -27.0,
+    "UpperCIB": 21.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1149.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 28.5,
+    "SE": 2.4,
+    "LowerCIB": 26.1,
+    "UpperCIB": 30.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.0,
+    "SE": 2.9,
+    "LowerCIB": -1.8,
+    "UpperCIB": 3.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 327.9,
+    "SE": 27.8,
+    "LowerCIB": 300.1,
+    "UpperCIB": 355.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 12.3,
+    "SE": 32.8,
+    "LowerCIB": -20.5,
+    "UpperCIB": 45.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASF",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1150.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 22.4,
+    "SE": 2.9,
+    "LowerCIB": 19.5,
+    "UpperCIB": 25.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 240.5,
+    "SE": 31.2,
+    "LowerCIB": 209.3,
+    "UpperCIB": 271.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 1073.4,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 23.9,
+    "SE": 2.8,
+    "LowerCIB": 21.2,
+    "UpperCIB": 26.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.5,
+    "SE": 4.2,
+    "LowerCIB": -2.7,
+    "UpperCIB": 5.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 257.8,
+    "SE": 29.9,
+    "LowerCIB": 227.9,
+    "UpperCIB": 287.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 17.3,
+    "SE": 45.5,
+    "LowerCIB": -28.2,
+    "UpperCIB": 62.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 1076.5,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 23.8,
+    "SE": 2.8,
+    "LowerCIB": 21.0,
+    "UpperCIB": 26.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.2,
+    "SE": 4.0,
+    "LowerCIB": -4.1,
+    "UpperCIB": 3.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 256.3,
+    "SE": 30.0,
+    "LowerCIB": 226.3,
+    "UpperCIB": 286.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -1.5,
+    "SE": 43.0,
+    "LowerCIB": -44.5,
+    "UpperCIB": 41.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 1078.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 21.9,
+    "SE": 2.7,
+    "LowerCIB": 19.2,
+    "UpperCIB": 24.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.8,
+    "SE": 4.1,
+    "LowerCIB": -5.9,
+    "UpperCIB": 2.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 237.4,
+    "SE": 29.0,
+    "LowerCIB": 208.4,
+    "UpperCIB": 266.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -18.9,
+    "SE": 44.3,
+    "LowerCIB": -63.2,
+    "UpperCIB": 25.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 1082.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 21.9,
+    "SE": 2.6,
+    "LowerCIB": 19.3,
+    "UpperCIB": 24.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 3.8,
+    "LowerCIB": -3.9,
+    "UpperCIB": 3.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 238.0,
+    "SE": 27.3,
+    "LowerCIB": 210.6,
+    "UpperCIB": 265.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.6,
+    "SE": 40.9,
+    "LowerCIB": -40.3,
+    "UpperCIB": 41.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 1086.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 22.2,
+    "SE": 2.8,
+    "LowerCIB": 19.4,
+    "UpperCIB": 25.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.3,
+    "SE": 3.9,
+    "LowerCIB": -3.6,
+    "UpperCIB": 4.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 240.7,
+    "SE": 30.8,
+    "LowerCIB": 209.9,
+    "UpperCIB": 271.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 2.7,
+    "SE": 42.5,
+    "LowerCIB": -39.8,
+    "UpperCIB": 45.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 1085.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 21.9,
+    "SE": 2.5,
+    "LowerCIB": 19.4,
+    "UpperCIB": 24.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.3,
+    "SE": 3.5,
+    "LowerCIB": -3.8,
+    "UpperCIB": 3.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 237.6,
+    "SE": 27.3,
+    "LowerCIB": 210.3,
+    "UpperCIB": 264.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -3.1,
+    "SE": 38.5,
+    "LowerCIB": -41.6,
+    "UpperCIB": 35.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 23.0,
+    "SE": 2.8,
+    "LowerCIB": 20.2,
+    "UpperCIB": 25.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.0,
+    "SE": 4.1,
+    "LowerCIB": -3.0,
+    "UpperCIB": 5.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 248.8,
+    "SE": 30.0,
+    "LowerCIB": 218.8,
+    "UpperCIB": 278.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 11.2,
+    "SE": 44.3,
+    "LowerCIB": -33.1,
+    "UpperCIB": 55.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 23.8,
+    "SE": 2.2,
+    "LowerCIB": 21.5,
+    "UpperCIB": 26.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.8,
+    "SE": 3.4,
+    "LowerCIB": -2.5,
+    "UpperCIB": 4.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 258.5,
+    "SE": 23.8,
+    "LowerCIB": 234.8,
+    "UpperCIB": 282.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 9.7,
+    "SE": 36.6,
+    "LowerCIB": -26.9,
+    "UpperCIB": 46.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 22.3,
+    "SE": 2.1,
+    "LowerCIB": 20.2,
+    "UpperCIB": 24.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.4,
+    "SE": 3.2,
+    "LowerCIB": -4.6,
+    "UpperCIB": 1.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 244.2,
+    "SE": 23.3,
+    "LowerCIB": 220.9,
+    "UpperCIB": 267.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -14.3,
+    "SE": 34.1,
+    "LowerCIB": -48.4,
+    "UpperCIB": 19.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 21.4,
+    "SE": 2.1,
+    "LowerCIB": 19.2,
+    "UpperCIB": 23.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.0,
+    "SE": 3.0,
+    "LowerCIB": -4.0,
+    "UpperCIB": 2.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 235.6,
+    "SE": 23.6,
+    "LowerCIB": 212.0,
+    "UpperCIB": 259.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -8.6,
+    "SE": 33.0,
+    "LowerCIB": -41.6,
+    "UpperCIB": 24.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 22.8,
+    "SE": 1.9,
+    "LowerCIB": 20.9,
+    "UpperCIB": 24.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.4,
+    "SE": 2.6,
+    "LowerCIB": -1.1,
+    "UpperCIB": 4.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 253.8,
+    "SE": 21.6,
+    "LowerCIB": 232.3,
+    "UpperCIB": 275.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 18.2,
+    "SE": 28.8,
+    "LowerCIB": -10.6,
+    "UpperCIB": 47.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 20.1,
+    "SE": 1.2,
+    "LowerCIB": 19.0,
+    "UpperCIB": 21.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -2.7,
+    "SE": 2.5,
+    "LowerCIB": -5.2,
+    "UpperCIB": -0.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 227.9,
+    "SE": 13.2,
+    "LowerCIB": 214.7,
+    "UpperCIB": 241.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -25.9,
+    "SE": 29.7,
+    "LowerCIB": -53.8,
+    "UpperCIB": 2.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.8,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 19.5,
+    "SE": 1.3,
+    "LowerCIB": 18.2,
+    "UpperCIB": 20.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.6,
+    "SE": 1.8,
+    "LowerCIB": -2.5,
+    "UpperCIB": 1.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 222.8,
+    "SE": 14.8,
+    "LowerCIB": 207.9,
+    "UpperCIB": 237.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -5.1,
+    "SE": 20.8,
+    "LowerCIB": -25.9,
+    "UpperCIB": 15.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1144.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 19.6,
+    "SE": 1.4,
+    "LowerCIB": 18.2,
+    "UpperCIB": 20.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.1,
+    "SE": 1.8,
+    "LowerCIB": -1.7,
+    "UpperCIB": 1.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 225.2,
+    "SE": 15.6,
+    "LowerCIB": 209.6,
+    "UpperCIB": 240.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 2.4,
+    "SE": 20.9,
+    "LowerCIB": -18.5,
+    "UpperCIB": 23.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1149.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 19.4,
+    "SE": 2.1,
+    "LowerCIB": 17.3,
+    "UpperCIB": 21.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.2,
+    "SE": 2.4,
+    "LowerCIB": -2.6,
+    "UpperCIB": 2.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 223.7,
+    "SE": 24.2,
+    "LowerCIB": 199.4,
+    "UpperCIB": 247.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -1.5,
+    "SE": 28.0,
+    "LowerCIB": -29.5,
+    "UpperCIB": 26.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASG",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1150.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 15.3,
+    "SE": 2.8,
+    "LowerCIB": 12.5,
+    "UpperCIB": 18.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 163.9,
+    "SE": 30.3,
+    "LowerCIB": 133.6,
+    "UpperCIB": 194.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 1073.4,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 14.5,
+    "SE": 2.2,
+    "LowerCIB": 12.2,
+    "UpperCIB": 16.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.8,
+    "SE": 3.6,
+    "LowerCIB": -4.4,
+    "UpperCIB": 2.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 155.9,
+    "SE": 24.0,
+    "LowerCIB": 131.9,
+    "UpperCIB": 179.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -8.0,
+    "SE": 38.3,
+    "LowerCIB": -46.3,
+    "UpperCIB": 30.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 1076.5,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 15.3,
+    "SE": 2.3,
+    "LowerCIB": 13.0,
+    "UpperCIB": 17.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.8,
+    "SE": 3.2,
+    "LowerCIB": -2.3,
+    "UpperCIB": 4.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 165.2,
+    "SE": 25.2,
+    "LowerCIB": 140.0,
+    "UpperCIB": 190.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 9.3,
+    "SE": 34.5,
+    "LowerCIB": -25.2,
+    "UpperCIB": 43.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 1078.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 14.8,
+    "SE": 2.3,
+    "LowerCIB": 12.5,
+    "UpperCIB": 17.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.5,
+    "SE": 3.2,
+    "LowerCIB": -3.7,
+    "UpperCIB": 2.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 160.4,
+    "SE": 25.3,
+    "LowerCIB": 135.1,
+    "UpperCIB": 185.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -4.8,
+    "SE": 35.2,
+    "LowerCIB": -40.0,
+    "UpperCIB": 30.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 1082.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 16.1,
+    "SE": 2.2,
+    "LowerCIB": 13.9,
+    "UpperCIB": 18.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.3,
+    "SE": 3.0,
+    "LowerCIB": -1.7,
+    "UpperCIB": 4.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 175.5,
+    "SE": 24.0,
+    "LowerCIB": 151.5,
+    "UpperCIB": 199.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 15.1,
+    "SE": 32.8,
+    "LowerCIB": -17.7,
+    "UpperCIB": 47.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 1086.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 16.3,
+    "SE": 2.6,
+    "LowerCIB": 13.7,
+    "UpperCIB": 18.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.1,
+    "SE": 3.3,
+    "LowerCIB": -3.2,
+    "UpperCIB": 3.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 176.8,
+    "SE": 28.7,
+    "LowerCIB": 148.1,
+    "UpperCIB": 205.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 1.3,
+    "SE": 36.3,
+    "LowerCIB": -35.0,
+    "UpperCIB": 37.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 1085.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 15.6,
+    "SE": 2.5,
+    "LowerCIB": 13.1,
+    "UpperCIB": 18.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.7,
+    "SE": 3.4,
+    "LowerCIB": -4.1,
+    "UpperCIB": 2.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 169.0,
+    "SE": 27.0,
+    "LowerCIB": 142.0,
+    "UpperCIB": 196.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -7.8,
+    "SE": 37.1,
+    "LowerCIB": -44.9,
+    "UpperCIB": 29.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 15.8,
+    "SE": 2.4,
+    "LowerCIB": 13.5,
+    "UpperCIB": 18.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.3,
+    "SE": 3.6,
+    "LowerCIB": -3.3,
+    "UpperCIB": 3.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 171.7,
+    "SE": 25.9,
+    "LowerCIB": 145.8,
+    "UpperCIB": 197.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 2.7,
+    "SE": 39.1,
+    "LowerCIB": -36.4,
+    "UpperCIB": 41.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 15.5,
+    "SE": 1.9,
+    "LowerCIB": 13.5,
+    "UpperCIB": 17.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.4,
+    "SE": 3.2,
+    "LowerCIB": -3.5,
+    "UpperCIB": 2.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 168.2,
+    "SE": 21.2,
+    "LowerCIB": 147.0,
+    "UpperCIB": 189.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -3.5,
+    "SE": 35.1,
+    "LowerCIB": -38.6,
+    "UpperCIB": 31.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 16.2,
+    "SE": 2.3,
+    "LowerCIB": 13.9,
+    "UpperCIB": 18.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.8,
+    "SE": 2.9,
+    "LowerCIB": -2.1,
+    "UpperCIB": 3.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 177.6,
+    "SE": 25.2,
+    "LowerCIB": 152.5,
+    "UpperCIB": 202.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 9.4,
+    "SE": 31.8,
+    "LowerCIB": -22.4,
+    "UpperCIB": 41.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 16.1,
+    "SE": 2.2,
+    "LowerCIB": 13.9,
+    "UpperCIB": 18.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.1,
+    "SE": 3.4,
+    "LowerCIB": -3.5,
+    "UpperCIB": 3.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 178.0,
+    "SE": 24.4,
+    "LowerCIB": 153.6,
+    "UpperCIB": 202.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.4,
+    "SE": 36.7,
+    "LowerCIB": -36.3,
+    "UpperCIB": 37.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 15.7,
+    "SE": 2.2,
+    "LowerCIB": 13.5,
+    "UpperCIB": 17.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.5,
+    "SE": 3.0,
+    "LowerCIB": -3.5,
+    "UpperCIB": 2.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 174.3,
+    "SE": 24.6,
+    "LowerCIB": 149.7,
+    "UpperCIB": 198.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -3.7,
+    "SE": 33.4,
+    "LowerCIB": -37.1,
+    "UpperCIB": 29.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 13.8,
+    "SE": 1.0,
+    "LowerCIB": 12.8,
+    "UpperCIB": 14.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.9,
+    "SE": 2.4,
+    "LowerCIB": -4.3,
+    "UpperCIB": 0.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 156.1,
+    "SE": 10.8,
+    "LowerCIB": 145.3,
+    "UpperCIB": 166.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -18.3,
+    "SE": 27.5,
+    "LowerCIB": -45.8,
+    "UpperCIB": 9.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.8,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 13.2,
+    "SE": 1.2,
+    "LowerCIB": 12.0,
+    "UpperCIB": 14.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.5,
+    "SE": 1.6,
+    "LowerCIB": -2.1,
+    "UpperCIB": 1.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 151.4,
+    "SE": 13.9,
+    "LowerCIB": 137.5,
+    "UpperCIB": 165.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -4.7,
+    "SE": 18.2,
+    "LowerCIB": -22.9,
+    "UpperCIB": 13.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1144.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 12.3,
+    "SE": 1.1,
+    "LowerCIB": 11.2,
+    "UpperCIB": 13.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.0,
+    "SE": 1.6,
+    "LowerCIB": -2.6,
+    "UpperCIB": 0.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 141.0,
+    "SE": 12.4,
+    "LowerCIB": 128.6,
+    "UpperCIB": 153.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -10.4,
+    "SE": 18.3,
+    "LowerCIB": -28.7,
+    "UpperCIB": 7.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1149.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 12.5,
+    "SE": 1.6,
+    "LowerCIB": 10.9,
+    "UpperCIB": 14.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.3,
+    "SE": 1.9,
+    "LowerCIB": -1.6,
+    "UpperCIB": 2.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 144.2,
+    "SE": 18.7,
+    "LowerCIB": 125.5,
+    "UpperCIB": 163.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 3.3,
+    "SE": 21.9,
+    "LowerCIB": -18.6,
+    "UpperCIB": 25.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASH",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1150.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 7.7,
+    "SE": 2.7,
+    "LowerCIB": 5.1,
+    "UpperCIB": 10.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 84.0,
+    "SE": 29.1,
+    "LowerCIB": 54.9,
+    "UpperCIB": 113.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 8.4,
+    "SE": 3.1,
+    "LowerCIB": 5.4,
+    "UpperCIB": 11.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.7,
+    "SE": 4.2,
+    "LowerCIB": -3.5,
+    "UpperCIB": 4.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 91.5,
+    "SE": 33.1,
+    "LowerCIB": 58.4,
+    "UpperCIB": 124.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 7.5,
+    "SE": 45.4,
+    "LowerCIB": -37.9,
+    "UpperCIB": 52.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 8.6,
+    "SE": 3.4,
+    "LowerCIB": 5.2,
+    "UpperCIB": 11.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.1,
+    "SE": 4.8,
+    "LowerCIB": -4.7,
+    "UpperCIB": 4.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 93.0,
+    "SE": 36.2,
+    "LowerCIB": 56.8,
+    "UpperCIB": 129.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 1.5,
+    "SE": 51.6,
+    "LowerCIB": -50.1,
+    "UpperCIB": 53.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 4.6,
+    "SE": 1.9,
+    "LowerCIB": 2.7,
+    "UpperCIB": 6.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -4.0,
+    "SE": 4.0,
+    "LowerCIB": -8.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 50.2,
+    "SE": 20.3,
+    "LowerCIB": 30.0,
+    "UpperCIB": 70.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -42.8,
+    "SE": 43.5,
+    "LowerCIB": -86.3,
+    "UpperCIB": 0.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 6.7,
+    "SE": 2.1,
+    "LowerCIB": 4.6,
+    "UpperCIB": 8.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 2.1,
+    "SE": 3.0,
+    "LowerCIB": -0.9,
+    "UpperCIB": 5.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 73.6,
+    "SE": 23.4,
+    "LowerCIB": 50.2,
+    "UpperCIB": 97.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 23.4,
+    "SE": 33.1,
+    "LowerCIB": -9.7,
+    "UpperCIB": 56.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 5.8,
+    "SE": 1.4,
+    "LowerCIB": 4.4,
+    "UpperCIB": 7.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.8,
+    "SE": 2.6,
+    "LowerCIB": -3.5,
+    "UpperCIB": 1.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 64.8,
+    "SE": 15.6,
+    "LowerCIB": 49.2,
+    "UpperCIB": 80.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -8.8,
+    "SE": 28.9,
+    "LowerCIB": -37.7,
+    "UpperCIB": 20.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 5.7,
+    "SE": 0.6,
+    "LowerCIB": 5.1,
+    "UpperCIB": 6.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.1,
+    "SE": 1.6,
+    "LowerCIB": -1.8,
+    "UpperCIB": 1.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 64.6,
+    "SE": 7.1,
+    "LowerCIB": 57.5,
+    "UpperCIB": 71.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -0.2,
+    "SE": 18.2,
+    "LowerCIB": -18.4,
+    "UpperCIB": 18.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 4.6,
+    "SE": 0.7,
+    "LowerCIB": 3.9,
+    "UpperCIB": 5.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.1,
+    "SE": 0.9,
+    "LowerCIB": -2.0,
+    "UpperCIB": -0.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 52.6,
+    "SE": 8.0,
+    "LowerCIB": 44.6,
+    "UpperCIB": 60.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -12.0,
+    "SE": 10.4,
+    "LowerCIB": -22.3,
+    "UpperCIB": -1.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1142.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 4.9,
+    "SE": 0.9,
+    "LowerCIB": 4.0,
+    "UpperCIB": 5.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.3,
+    "SE": 1.1,
+    "LowerCIB": -0.8,
+    "UpperCIB": 1.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 56.1,
+    "SE": 10.1,
+    "LowerCIB": 46.1,
+    "UpperCIB": 66.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 3.5,
+    "SE": 12.1,
+    "LowerCIB": -8.6,
+    "UpperCIB": 15.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1146.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 3.9,
+    "SE": 1.0,
+    "LowerCIB": 2.9,
+    "UpperCIB": 4.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.0,
+    "SE": 1.3,
+    "LowerCIB": -2.3,
+    "UpperCIB": 0.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 45.1,
+    "SE": 11.2,
+    "LowerCIB": 33.9,
+    "UpperCIB": 56.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -11.1,
+    "SE": 14.7,
+    "LowerCIB": -25.8,
+    "UpperCIB": 3.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASI",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1149.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2007",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2007",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2007",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2007",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2007",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2008",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2008",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2008",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2008",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2008",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2009",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2009",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2009",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2009",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2009",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2010",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2010",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2010",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2010",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2010",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2011",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2011",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2011",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2011",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2011",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2012",
+    "EstCode": "_Proportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2012",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2012",
+    "EstCode": "_Number",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2012",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2012",
+    "EstCode": "_Population",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2013",
+    "EstCode": "_Proportion",
+    "Estimate": 10.5,
+    "SE": 3.3,
+    "LowerCIB": 7.2,
+    "UpperCIB": 13.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2013",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2013",
+    "EstCode": "_Number",
+    "Estimate": 113.8,
+    "SE": 35.7,
+    "LowerCIB": 78.1,
+    "UpperCIB": 149.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2013",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 0.0,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "A"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2013",
+    "EstCode": "_Population",
+    "Estimate": 1084.7,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2014",
+    "EstCode": "_Proportion",
+    "Estimate": 8.9,
+    "SE": 2.6,
+    "LowerCIB": 6.2,
+    "UpperCIB": 11.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2014",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.6,
+    "SE": 4.2,
+    "LowerCIB": -5.9,
+    "UpperCIB": 2.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2014",
+    "EstCode": "_Number",
+    "Estimate": 96.2,
+    "SE": 28.3,
+    "LowerCIB": 67.9,
+    "UpperCIB": 124.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2014",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -17.6,
+    "SE": 46.0,
+    "LowerCIB": -63.6,
+    "UpperCIB": 28.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2014",
+    "EstCode": "_Population",
+    "Estimate": 1083.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2015",
+    "EstCode": "_Proportion",
+    "Estimate": 10.2,
+    "SE": 2.6,
+    "LowerCIB": 7.6,
+    "UpperCIB": 12.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2015",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.3,
+    "SE": 3.9,
+    "LowerCIB": -2.5,
+    "UpperCIB": 5.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2015",
+    "EstCode": "_Number",
+    "Estimate": 110.9,
+    "SE": 27.6,
+    "LowerCIB": 83.3,
+    "UpperCIB": 138.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2015",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 14.7,
+    "SE": 41.8,
+    "LowerCIB": -27.1,
+    "UpperCIB": 56.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2015",
+    "EstCode": "_Population",
+    "Estimate": 1087.1,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2016",
+    "EstCode": "_Proportion",
+    "Estimate": 7.2,
+    "SE": 2.5,
+    "LowerCIB": 4.7,
+    "UpperCIB": 9.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2016",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -3.0,
+    "SE": 3.6,
+    "LowerCIB": -6.6,
+    "UpperCIB": 0.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2016",
+    "EstCode": "_Number",
+    "Estimate": 78.8,
+    "SE": 27.8,
+    "LowerCIB": 51.0,
+    "UpperCIB": 106.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2016",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -32.1,
+    "SE": 39.4,
+    "LowerCIB": -71.5,
+    "UpperCIB": 7.3,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2016",
+    "EstCode": "_Population",
+    "Estimate": 1093.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2017",
+    "EstCode": "_Proportion",
+    "Estimate": 7.8,
+    "SE": 2.0,
+    "LowerCIB": 5.8,
+    "UpperCIB": 9.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2017",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 0.6,
+    "SE": 3.5,
+    "LowerCIB": -2.9,
+    "UpperCIB": 4.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2017",
+    "EstCode": "_Number",
+    "Estimate": 86.2,
+    "SE": 22.4,
+    "LowerCIB": 63.8,
+    "UpperCIB": 108.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2017",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 7.4,
+    "SE": 38.2,
+    "LowerCIB": -30.8,
+    "UpperCIB": 45.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2017",
+    "EstCode": "_Population",
+    "Estimate": 1103.2,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2018",
+    "EstCode": "_Proportion",
+    "Estimate": 8.8,
+    "SE": 1.8,
+    "LowerCIB": 7.1,
+    "UpperCIB": 10.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2018",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": 1.0,
+    "SE": 2.9,
+    "LowerCIB": -1.9,
+    "UpperCIB": 3.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2018",
+    "EstCode": "_Number",
+    "Estimate": 98.3,
+    "SE": 19.5,
+    "LowerCIB": 78.8,
+    "UpperCIB": 117.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2018",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": 12.1,
+    "SE": 31.7,
+    "LowerCIB": -19.6,
+    "UpperCIB": 43.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2018",
+    "EstCode": "_Population",
+    "Estimate": 1113.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2019",
+    "EstCode": "_Proportion",
+    "Estimate": 7.7,
+    "SE": 0.8,
+    "LowerCIB": 6.9,
+    "UpperCIB": 8.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2019",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -1.1,
+    "SE": 1.9,
+    "LowerCIB": -3.1,
+    "UpperCIB": 0.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2019",
+    "EstCode": "_Number",
+    "Estimate": 87.1,
+    "SE": 9.4,
+    "LowerCIB": 77.7,
+    "UpperCIB": 96.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2019",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -11.2,
+    "SE": 21.3,
+    "LowerCIB": -32.5,
+    "UpperCIB": 10.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2019",
+    "EstCode": "_Population",
+    "Estimate": 1132.8,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2020",
+    "EstCode": "_Proportion",
+    "Estimate": 6.9,
+    "SE": 1.0,
+    "LowerCIB": 5.9,
+    "UpperCIB": 7.8,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2020",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.8,
+    "SE": 1.2,
+    "LowerCIB": -2.1,
+    "UpperCIB": 0.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2020",
+    "EstCode": "_Number",
+    "Estimate": 78.4,
+    "SE": 11.2,
+    "LowerCIB": 67.2,
+    "UpperCIB": 89.5,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2020",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -8.7,
+    "SE": 14.1,
+    "LowerCIB": -22.9,
+    "UpperCIB": 5.4,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2020",
+    "EstCode": "_Population",
+    "Estimate": 1142.3,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2021",
+    "EstCode": "_Proportion",
+    "Estimate": 6.4,
+    "SE": 0.8,
+    "LowerCIB": 5.6,
+    "UpperCIB": 7.2,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2021",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.5,
+    "SE": 1.1,
+    "LowerCIB": -1.6,
+    "UpperCIB": 0.7,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2021",
+    "EstCode": "_Number",
+    "Estimate": 73.5,
+    "SE": 9.6,
+    "LowerCIB": 63.8,
+    "UpperCIB": 83.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2021",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -4.9,
+    "SE": 13.0,
+    "LowerCIB": -17.9,
+    "UpperCIB": 8.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2021",
+    "EstCode": "_Population",
+    "Estimate": 1146.9,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2022",
+    "EstCode": "_Proportion",
+    "Estimate": 5.9,
+    "SE": 1.2,
+    "LowerCIB": 4.7,
+    "UpperCIB": 7.0,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2022",
+    "EstCode": "_ChangeInProportion",
+    "Estimate": -0.5,
+    "SE": 1.4,
+    "LowerCIB": -2.0,
+    "UpperCIB": 0.9,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2022",
+    "EstCode": "_Number",
+    "Estimate": 67.3,
+    "SE": 13.3,
+    "LowerCIB": 54.1,
+    "UpperCIB": 80.6,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2022",
+    "EstCode": "_ChangeInNumber",
+    "Estimate": -6.1,
+    "SE": 16.2,
+    "LowerCIB": -22.3,
+    "UpperCIB": 10.1,
+    "Flag": "null"
+  },
+  {
+    "MsCode": "MEASJ",
+    "Year": "2022",
+    "EstCode": "_Population",
+    "Estimate": 1149.6,
+    "SE": 0.0,
+    "LowerCIB": 0.0,
+    "UpperCIB": 0.0,
+    "Flag": "null"
+  }
+]
